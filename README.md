@@ -5,4 +5,5 @@ I’ve been reading the Introduction to Quantitave Social Sciences by Kosuke Ima
 R solutions: https://github.com/takakishi/Textbook-Solution-Code-for-Quantitative-Social-Science-An-Introduction/tree/master
 
 Python code of the book: https://github.com/jeffallen13/qsspy/tree/main
+
 (I benefitted from these sources a lot, thank you guys!!)
