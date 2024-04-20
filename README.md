@@ -7,3 +7,14 @@ R solutions: https://github.com/takakishi/Textbook-Solution-Code-for-Quantitativ
 Python code of the book: https://github.com/jeffallen13/qsspy/tree/main
 
 (I benefitted from these sources a lot, thank you guys!!)
+
+Status:
+
+| Chapter  | missing solutions |
+| ------------- | ------------- |
+| Causality  | exc_3:q_5 |
+| Measurement  | -  |
+| Prediction  | exc_1:q_4_5_6, exc_2, exc_3  |
+| Discovery  | exc1_1:q_5, coming soon  |
+| Probability  | coming soon  |
+| Uncertainty  | coming soon  |
