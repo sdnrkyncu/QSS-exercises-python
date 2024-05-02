@@ -14,7 +14,7 @@ Status:
 | ------------- | ------------- |
 | Causality  | exc_3:q_5 |
 | Measurement  | -  |
-| Prediction  | exc_1:q_4_5_6, exc_2, exc_3  |
-| Discovery  | exc1_1:q_5, coming soon  |
+| Prediction  | exc_1:q_4_5_6, exc_2, exc_3 |
+| Discovery  | exc3 |
 | Probability  | coming soon  |
 | Uncertainty  | coming soon  |
